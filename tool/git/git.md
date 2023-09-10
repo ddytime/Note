@@ -15,8 +15,8 @@
 - 使用git commit -a可以不用使用git add命令直接提交
 
 5.将本地仓库和远端仓库关联
-- 需要token git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
-- 不需要token git remote add origin https://.../*.git
+- 需要token的命令 git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
+- 不需要token命令 git remote add origin https://.../*.git
 
 6.上传代码
 - git push -u origin master
