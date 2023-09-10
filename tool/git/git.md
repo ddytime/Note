@@ -41,6 +41,12 @@
 | git reset | 回退版本 |
 | git rm | 将文件从暂缓区和工作区删除 |
 | git mv | 移动文件或者重命名工作区文件 |
+| git branch (branchname) | 创建分支 |
+| git checkout (branchname) | 切换分支 |
+| git branch -d (branchname) | 删除分支 |
+| git branch | 显示分支 |
+| git merge (branchname) | 合并分支，将branchname合并到当前分支 |
+
 
 ### git pull 从远程获取代码并合并本地
 git pull 其实就是 git fetch 和 git merge FETCH_HEAD 的简写
@@ -65,3 +71,7 @@ From https://github.com/tianqixin/runoob-git-test
  * branch            master     -> FETCH_HEAD
 Already up to date.
 ```
+
+### 分支管理
+
+
