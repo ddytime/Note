@@ -22,10 +22,3 @@ data[8]    name
 data[8]    name
 Data[8]    name
 
-data[8]    name
-Data[8]    name
-data[25]    lllll
-data[0]    zzzz
-data[0]    dd
-data[0]    oooo
-data[0]    oooo
